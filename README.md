@@ -1,7 +1,7 @@
 # Alina Demianenko
 548 Merrimack St, 2A Lowell, MA 01826  
 Phone: 978-942-9037  
-Email: alina_munoz@student.uml.edu  
+Email: alina_demianenko@student.uml.edu  
 
 ## Education  
 **Bachelor of Science in Electrical Engineering** (Expected 2025)  
