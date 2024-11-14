@@ -56,7 +56,7 @@ University of Massachusetts Lowell, Lowell, MA
 **Self-Watering Plant System**  
 - Designed and built a self-watering plant system using Arduino microcontrollers and moisture sensors.  
 
-***Red Hat Fedora Project (University-Sponsored Collaboration)
+**Red Hat Fedora Project (University-Sponsored Collaboration)**
 -Collaborated with Red Hat on a university project to evaluate and test hardware compatibility and performance with Fedora Linux.
 -Monitored Fedora usage among UMass Lowell students to improve support and accessibility.
 -Engaged with the open-source community to contribute improvements and adapt Fedora systems for educational use.
