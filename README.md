@@ -55,8 +55,11 @@ University of Massachusetts Lowell, Lowell, MA
 ## Projects  
 **Self-Watering Plant System**  
 - Designed and built a self-watering plant system using Arduino microcontrollers and moisture sensors.  
-- Programmed the system to monitor soil moisture levels and automatically water the plants as needed.  
-- Conducted testing and optimization to ensure efficient water usage and plant health.  
+
+***Red Hat Fedora Project (University-Sponsored Collaboration)
+-Collaborated with Red Hat on a university project to evaluate and test hardware compatibility and performance with Fedora Linux.
+-Monitored Fedora usage among UMass Lowell students to improve support and accessibility.
+-Engaged with the open-source community to contribute improvements and adapt Fedora systems for educational use.
 
 ## Summary  
 Results-driven electrical engineering student with experience in desktop support and IT assistance. Strong foundation in basic engineering coursework and proficiency in problem-solving and communication. Seeking opportunities to apply theoretical knowledge and contribute to the field of electrical engineering.  
